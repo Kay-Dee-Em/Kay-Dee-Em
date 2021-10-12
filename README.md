@@ -1,5 +1,5 @@
 
-# Ahoj! 👋
+# Ahoy! 👋
 
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
