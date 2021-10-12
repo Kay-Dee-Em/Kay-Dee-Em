@@ -13,8 +13,10 @@
 
 - GitHub: [github.com/Kay-Dee-Em][github]
 
-<!--  - E-mail: klaudia.maruszak@gmail.com  -->
+<!--  - E-mail: klaudia.maruszak@gmail.com 
 
 ![Klaudia Maruszak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kay-Dee-Em&show_icons=true&hide_border=true)
 
 [github]: https://github.com/Kay-Dee-Em
+
+ -->
