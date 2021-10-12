@@ -7,12 +7,12 @@
 ![SQL](https://img.shields.io/badge/HTML-Advanced-orange)
 
 - 📚 Honing skills in: `.py`, `.r`,`.sql`
-- 🌱 Learning: **Bash, Julia, PL_SQL**
+- 🌱 Learning: `.jl`, `.sh`,`.pls`
 
 ### 📬 Reach me
 
 - GitHub: [github.com/Kay-Dee-Em][github]
-- 
+
 <!--  - E-mail: klaudia.maruszak@gmail.com  -->
 
 ![Klaudia Maruszak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kay-Dee-Em&show_icons=true&hide_border=true)
