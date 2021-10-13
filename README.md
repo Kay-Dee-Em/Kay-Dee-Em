@@ -3,8 +3,8 @@
 
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![R](https://img.shields.io/badge/R-Intermediate-blue)
-![SQL](https://img.shields.io/badge/SQL-Advanced-orange)
+![R](https://img.shields.io/badge/R-Intermediate-yellow)
+![SQL](https://img.shields.io/badge/SQL-Advanced-success)
 
 - 📚 Honing skills in: `.py`, `.r`,`.sql`
 - 🌱 Learning: `.jl`, `.sh`,`.pls`
