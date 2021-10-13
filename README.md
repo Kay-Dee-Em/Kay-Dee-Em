@@ -9,7 +9,7 @@
 - 📚 Honing skills in: `.py`, `.r`,`.sql`
 - 🌱 Learning: `.jl`, `.sh`,`.pls`
 
-### 📬 Reach me
+### 📬  Reach me
 
 - GitHub: [github.com/Kay-Dee-Em][github]
 
