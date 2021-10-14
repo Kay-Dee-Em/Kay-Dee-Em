@@ -9,6 +9,13 @@
 - 📚 Honing skills in: `.py`, `.r`,`.sql`
 - 🌱 Learning: `.jl`, `.sh`,`.pls`
 
+
+### 💬  Info
+
+- repository *projects* contains private projects 
+- repository *university_projects* contains university projects 
+
+
 ### 📬  Reach me
 
 - GitHub: [github.com/Kay-Dee-Em][github]
@@ -20,4 +27,8 @@
  -->
  
 [github]: https://github.com/Kay-Dee-Em
+
+
+
+
 
