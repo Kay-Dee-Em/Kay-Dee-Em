@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![R](https://img.shields.io/badge/R-Intermediate-yellow)
-![SQL](https://img.shields.io/badge/SQL-Advanced-success)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
 
 - 📚 Honing skills in: `.py`, `.r`,`.sql`
 - 🌱 Learning: `.jl`, `.sh`,`.pls`
