@@ -2,9 +2,9 @@
 # Ahoy! 👋
 
 
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Upper_Intermediate-green)
 ![R](https://img.shields.io/badge/R-Intermediate-yellow)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
+![SQL](https://img.shields.io/badge/SQL-Upper_Intermediate-green)
 
 - 📚 Honing skills in: `.py`, `.r`,`.sql`
 - 🌱 Learning: `.jl`, `.sh`,`.pls`
@@ -12,13 +12,15 @@
 
 ### 💬  Info
 
-- repository *projects* contains private projects 
-- repository *university_projects* contains university projects 
+- repository `MLforFinancialForecasting` - time series optimal investment strategy prediction (neural network)
+- repository `projects` contains private projects 
+- repository `university_projects` contains some of the university projects 
 
 
 ### 📬  Reach me
 
 - GitHub: [github.com/Kay-Dee-Em][github]
+- E-mail: klaudia.maruszak@gmail.com 
 
 <!--  - E-mail: klaudia.maruszak@gmail.com 
 
