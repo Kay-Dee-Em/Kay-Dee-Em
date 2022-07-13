@@ -12,7 +12,7 @@
 
 ### 💬  Info
 
-- repository `MLforFinancialForecasting` - time series optimal investment strategy prediction (neural network)
+- repository `MLforFinancialForecasting` - prediction of the optimal investment strategy for a time series (neural network)
 - repository `projects` contains private projects 
 - repository `university_projects` contains some of the university projects 
 
