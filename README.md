@@ -2,10 +2,12 @@
 # Ahoy! 👋
 
 
+<!-- 
 ![Python](https://img.shields.io/badge/Python-Upper_Intermediate-green)
 ![R](https://img.shields.io/badge/R-Intermediate-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Upper_Intermediate-green)
-
+ -->
+ 
 - 📚 Honing skills in: `.py`, `.r`,`.sql`
 - 🌱 Learning: `.jl`, `.sh`,`.pls`
 
